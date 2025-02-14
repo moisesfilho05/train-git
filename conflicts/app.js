@@ -1,4 +1,4 @@
-let entrada1 = parseFloat(prompt('Digite um número:'));
+let entrada1 = parseInt(prompt('Digite um número:'));
 let entrada2 = parseFloat(prompt('Digite outro número:'));
 
 function calcularNumero(numero1, numero2) {
